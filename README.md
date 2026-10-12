@@ -234,6 +234,7 @@ resource-booking/
 ---
 
 ## 📊 ER Diagram
+![ER Diagram](./docs/er-diagram.png)
 
 [Add your dbdiagram.io share link here]
 
