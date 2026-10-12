@@ -244,7 +244,7 @@ resource-booking/
 
 ## 📹 Demo Video
 
-[Add your YouTube/Loom link here]
+[[Add your YouTube/Loom link here](https://www.youtube.com/watch?v=z7pWCu78FtM)]
 
 ---
 
