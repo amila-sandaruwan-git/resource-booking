@@ -238,7 +238,7 @@ resource-booking/
 ![ER Diagram](./docs/er-diagram.png)
 
 
-[Add your dbdiagram.io share link here]
+[https://dbdiagram.io/d/6accaf8e10dbb6efb5d2470f]
 
 ---
 
