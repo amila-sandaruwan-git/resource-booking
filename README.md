@@ -235,7 +235,7 @@ resource-booking/
 
 ## 📊 ER Diagram
 
-![ER Diagram](./docs/er-diagram.png)
+![ER Diagram](./docs/er-diagram.png.png)
 
 
 [https://dbdiagram.io/d/6accaf8e10dbb6efb5d2470f]
