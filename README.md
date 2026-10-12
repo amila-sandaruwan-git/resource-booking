@@ -237,17 +237,12 @@ resource-booking/
 
 ![ER Diagram](./docs/er-diagram.png.png)
 
-
-[https://dbdiagram.io/d/6accaf8e10dbb6efb5d2470f]
+[[ER Diagram dbdiagram link hear](https://dbdiagram.io/d/6accaf8e10dbb6efb5d2470f)]
 
 ---
 
 ## 📹 Demo Video
 
-[[Add your YouTube/Loom link here](https://www.youtube.com/watch?v=z7pWCu78FtM)]
+[[YouTube link here](https://www.youtube.com/watch?v=z7pWCu78FtM)]
 
 ---
-
-## 📄 License
-
-MIT
